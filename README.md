@@ -10,4 +10,4 @@
 3) rl paper study
 https://github.com/genji970/RL-stock-prediction-paper-study
 
-4) 수학 : 해석학 , 선대 등
+4) 수학 : 해석학 , 선대 테일러급수 등
