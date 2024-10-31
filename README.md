@@ -9,7 +9,7 @@
 
    pretrained transformer encoder model 쓰지 않음
 
-2) chatbot start
+2) chatbot start, api와 langchain 필요
 
 . soft actor critic mujoco half cheeath
    https://github.com/genji970/soft-actor-critic
