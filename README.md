@@ -11,10 +11,10 @@
 
 2) chatbot start
 
-) soft actor critic mujoco half cheeath
+. soft actor critic mujoco half cheeath
    https://github.com/genji970/soft-actor-critic
    
-) rl paper study
+. rl paper study
 https://github.com/genji970/RL-stock-prediction-paper-study
 
-) 수학 : 해석학 , 선대 테일러급수 등
+. 수학 : 해석학 , 선대 테일러급수 등
