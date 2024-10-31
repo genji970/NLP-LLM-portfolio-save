@@ -3,8 +3,9 @@
 
 1) transformer encoder로 동의어 관계 분석 진행중
    https://github.com/genji970/llm-transformer-bert
-
+   
    epoch : 100 , train_loss : 0.4397 , test_dataset : {'accuracy': 0.664927536231884, 'f1': 0.7987465181058496}(별도의 scheduling은 하지 않고 epoch100으로만 훈련함)
+   위의 링크와 이 실험결과는 관련 없음 위는 여러 시행착오 버전 중 하나
 
 3) soft actor critic mujoco half cheeath
    https://github.com/genji970/soft-actor-critic
