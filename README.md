@@ -8,7 +8,7 @@
    위의 링크와 이 실험결과는 관련 없음 위는 여러 시행착오 버전 중 하나
 
    pretrained transformer encoder model 쓰지 않음
-   추가 실험 예정
+추가 실험 예정
 
 3) chatbot start, api와 langchain 필요
    chatgpt4o 필요
