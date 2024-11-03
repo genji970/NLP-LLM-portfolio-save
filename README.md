@@ -11,6 +11,8 @@
    
 추가 실험 예정
 
+https://github.com/genji970/NLP-LLM-portfolio-save/blob/main/transformer_partially_complete.ipynb
+
 2) llm start
    i) ibm-granite/granite-3.0-8b-instruct 사용 , fine tuning을 하기 위한 구조가 갖추어졌는지 확인용으로 훈련데이터는 1개만 만들어 입력,
 
