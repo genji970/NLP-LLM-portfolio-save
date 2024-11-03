@@ -10,6 +10,8 @@
 추가 실험 예정
 
 2) llm start
+   i)
+   ii) meta llama 사용해봄 7B짜리. 외부 데이터 1개(말 그대로 한개)를 모델의 입력에 맞는 format으로 구성해 fine tuning 해봄. 작동하는지 테스트해본 정도. 시각화나 테스트데이터에 대한 추론은 안 해봄
 
 . soft actor critic mujoco half cheeath
    https://github.com/genji970/soft-actor-critic
