@@ -23,4 +23,4 @@ https://github.com/genji970/NLP-LLM-portfolio-save/blob/main/transformer_partial
 4) rl paper study
 https://github.com/genji970/RL-stock-prediction-paper-study
 
-. 수학 : 해석학 , 선대 , 테일러급수 등
+. 수학 : 해석학 , 테일러급수 등
