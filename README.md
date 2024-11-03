@@ -15,7 +15,7 @@ https://github.com/genji970/NLP-LLM-portfolio-save/blob/main/transformer_partial
    i) ibm-granite/granite-3.0-8b-instruct 사용 , fine tuning을 하기 위한 구조가 갖추어졌는지 확인용으로 훈련데이터는 1개만 만들어 입력,
 
 구현 과정 : 
-   autotokenizer로 token 생성(pad = 0), AutoModelForCausalLM 사용, model freeze하고 Lora 사용(저차원 = 8), model -> peft처리된 model, tokenized data 생성 , train , 3epoch만 돌렸고 train loss는 굉장히 큼. tensorboard로 결과 시각화
+   autotokenizer로 token 생성(pad), AutoModelForCausalLM 사용, model freeze하고 Lora 사용(저차원), model -> peft처리된 model, tokenized data 생성 , train , 3epoch만 돌렸고 train loss는 굉장히 큼. tensorboard로 결과 시각화
 
 3) soft actor critic mujoco half cheeath
    https://github.com/genji970/soft-actor-critic
