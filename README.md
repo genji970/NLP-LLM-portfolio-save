@@ -1,7 +1,7 @@
 # transformer encoder NLP-portfolio
 자연어, 생성형 , 강화학습 ai 포트폴리오
 
-1) transformer encoder로 동의어 관계 분석
+1) transformer encoder로 동의어 관계 분석 , 위의 transformer_partially_complete이 해당 파일임.
    
    epoch : 99, train_loss : 0.43970897793769836 , test_dataset : {'accuracy': 0.664927536231884, 'f1': 0.7987465181058496}(별도의 scheduling이나 checkpoint지정은 하지 않고 train dataset에 epoch100으로만 훈련함)
    
